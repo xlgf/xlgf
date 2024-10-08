@@ -1,4 +1,4 @@
-  # Hi, I'm Xylgei!
+  # Hi, I'm Xy!
 
   Student taking a journey to become successful developer. <br/> 
   Currently third year student taking Computer Science at National University-Dasmarinas <br/>
